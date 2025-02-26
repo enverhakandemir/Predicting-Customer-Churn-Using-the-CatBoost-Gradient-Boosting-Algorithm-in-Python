@@ -6,7 +6,7 @@
 * **2-Feature Encoding:** Converts categorical variables into numerical format (one-hot encoding or label encoding).
 * **3-Chi-Square & Cramer's V Analysis:** Computes significance levels and associations.
 * **4-Mutual Information Test:** Measures dependency strength between features.
-* **5-Machine Learning (CatBoost):** Trains a model, evaluates performance, and visualizes feature importance.
+* **5-CatBoost - Machine Learning:** Trains a model, evaluates performance, and visualizes feature importance.
 * **6-Visualization:** Heatmaps, decision boundaries, ROC curve, and SHAP values.
 
 **Key Features:**
@@ -19,7 +19,7 @@
 
 **Visualizations:**
 
-* **Heatmaps for Chi-Square, Cramer's V, and Mutual Information.
-* **Feature Importance ranking from CatBoost.
-* **ROC Curve for model evaluation.
-* **SHAP Summary & Heatmap for interpretability.
+* Heatmaps for Chi-Square, Cramer's V, and Mutual Information.
+* Feature Importance ranking from CatBoost.
+* ROC Curve for model evaluation.
+* SHAP Summary & Heatmap for interpretability.
