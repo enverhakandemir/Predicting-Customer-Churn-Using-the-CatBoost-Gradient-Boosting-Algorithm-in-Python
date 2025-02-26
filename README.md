@@ -2,12 +2,12 @@
 
 **Suggested Steps:**
 
-* **1-Load Data: The script reads an Excel file, in my case data file containing telecom churn data.
-* **2-Feature Encoding: Converts categorical variables into numerical format (one-hot encoding or label encoding).
-* **3-Chi-Square & Cramer's V Analysis: Computes significance levels and associations.
-* **4-Mutual Information Test: Measures dependency strength between features.
-* **5-Machine Learning (CatBoost): Trains a model, evaluates performance, and visualizes feature importance.
-* **6-Visualization: Heatmaps, decision boundaries, ROC curve, and SHAP values.
+* **1-Load Data:** The script reads an Excel file, in my case data file containing telecom churn data.
+* **2-Feature Encoding:** Converts categorical variables into numerical format (one-hot encoding or label encoding).
+* **3-Chi-Square & Cramer's V Analysis:** Computes significance levels and associations.
+* **4-Mutual Information Test:** Measures dependency strength between features.
+* **5-Machine Learning (CatBoost):** Trains a model, evaluates performance, and visualizes feature importance.
+* **6-Visualization:** Heatmaps, decision boundaries, ROC curve, and SHAP values.
 
 **Key Features:**
 
