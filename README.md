@@ -23,3 +23,5 @@
 * Feature Importance ranking from CatBoost.
 * ROC Curve for model evaluation.
 * SHAP Summary & Heatmap for interpretability.
+
+I cannot share the data I have used, but you can access a dataset with almost the same structure from this link: https://www.kaggle.com/code/emineyetm/telco-customer-churn/input
